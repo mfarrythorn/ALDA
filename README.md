@@ -6,3 +6,5 @@ A place to put all my notes about using GitHub for ALDA
 Start a new respository in GitHub and then open in R
 
 Always pull before you push
+
+Testing with the new laptop
